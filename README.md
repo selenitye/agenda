@@ -3,16 +3,17 @@
 <h1>Projeto Agenda</h1>
 </div>
 
-
-[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)](https://github.com/selenitye/agenda)
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=blue&style=for-the-badge"/>
+</p>
 
 Seja bem-vindo à Documentação Técnica do Projeto Agenda! Neste espaço, você encontrará informações detalhadas acerca do projeto, incluindo sua estrutura, tecnologias empregadas, explicações sobre o modelo de esquemas, os testes de rotas que foram implementados, além de um breve resumo sobre a arquitetura MVC que dá suporte ao desenvolvimento. Por último, disponibilizamos instruções para realizar a clonagem do repositório. Esperamos que esta documentação seja de grande valia, simplificando a compreensão de todos os aspectos fundamentais para o desenvolvimento e manutenção deste sistema.
 
-## Visão Geral do Projeto
+## 🔍 Visão Geral do Projeto
 
 O projeto Agenda é uma aplicação BackEnd desenvolvida em JavaScript, utilizando a plataforma Node.js e adotando a arquitetura MVC. Essa solução possibilita a execução de operações CRUD, permitindo a manipulação dos dados dos contatos armazenados no banco de dados.
 
-## Tecnologias Utilizadas
+## 🌐 Tecnologias Utilizadas
 
 | Tecnologia | Função na aplicação                                                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,7 +60,7 @@ O projeto Agenda é uma aplicação BackEnd desenvolvida em JavaScript, utilizan
 
 ```
 
-### Arquitetura MVC
+### Arquitetura MVC:
 
 O projeto segue a arquitetura Model-View-Controller (MVC), que divide a aplicação em três componentes principais:
 
