@@ -1,8 +1,38 @@
 [
     {
-        "nome": "Joao Paz",
-        "telefone": "81 99998-2054",
-        "email": "joaopaz@gmail.com",
-        "whatsapp": true
+      "nome": "Maria Joaquina Da Silva",
+      "telefone": "81 98887-9878",
+      "email": "mariaJoaquina@hotmail.com",
+      "whatsapp": false
+    },
+    {
+      "nome": "Rafaela Ferreira Da Silva",
+      "telefone": "81 99565-0545",
+      "email": "rafaelaferreira@hotmail.com",
+      "whatsapp": true
+    },
+    {
+      "nome": "Fernanda Mattos Da Silva",
+      "telefone": "81 87485-0000",
+      "email": "fernandamattos@hotmail.com",
+      "whatsapp": false
+    },
+    {
+      "nome": "Gabriel Monte Da Silva",
+      "telefone": "81 87485-7733",
+      "email": "gabrielmonte@hotmail.com",
+      "whatsapp": true
+    },
+    {
+      "nome": "Juliana Fonseca Da Silva",
+      "telefone": "81 98887-7733",
+      "email": "julianafonseca@hotmail.com",
+      "whatsapp": false
+    },
+    {
+      "nome": "Antonio Ferreira Da Silva",
+      "telefone": "81 99225-9878",
+      "email": "antonioferreira@hotmail.com",
+      "whatsapp": true
     }
-]
+  ]
