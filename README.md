@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=blue&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20concluido&color=blue&style=for-the-badge"/> 
 </p>
 
 Seja bem-vindo à Documentação Técnica do Projeto Agenda! Neste espaço, você encontrará informações detalhadas acerca do projeto, incluindo sua estrutura, tecnologias empregadas, explicações sobre o modelo de esquemas, os testes de rotas que foram implementados, além de um breve resumo sobre a arquitetura MVC que dá suporte ao desenvolvimento. Por último, disponibilizamos instruções para realizar a clonagem do repositório. Esperamos que esta documentação seja de grande valia, simplificando a compreensão de todos os aspectos fundamentais para o desenvolvimento e manutenção deste sistema.
